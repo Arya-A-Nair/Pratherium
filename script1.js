@@ -7,4 +7,5 @@ function success(){
     content=document.getElementById("content");
     content.style.display="block";
     document.body.classList.remove("bg-dark");
+    window.scrollTo(0, 0);
 }
