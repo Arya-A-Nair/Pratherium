@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+html, body{
+    min-height:100%!important;
+}
+body{
+    height:100vh !important;
+}
+
+.card{
+    border:none !important;
+}
+
+.Warning-Text{
+    font-size:10vw !important;
+}
+#disclaimer{
+    margin-top:50vh;
+}
+
+#disclaimer button{
+    
+    font-size:3vw !important;
+    margin:auto;
+}
